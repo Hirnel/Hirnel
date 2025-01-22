@@ -5,3 +5,8 @@
 - 😄 Pronombres: él, aunque estoy cómodo con cualquiera.
 - ⚡ Dato curioso: ¡Comencé a programar por curiosidad y mi meta es convertirlo en mi carrera profesional!
 
+- Languages and Tools
+    - JavaScript
+    - MySQL
+    - SASS
+    - Git
